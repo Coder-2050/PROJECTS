@@ -1,1 +1,1 @@
-# PROJECTS
+# PROJECTS for practice purposes
